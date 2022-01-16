@@ -7,5 +7,6 @@ A simple youtube playlist downloader using pythons's pytube module
 - Threading and queuing implemented
 
 New-Feature To Add:
-
+- python curses to make it look cooler
 - automatically download a lower resolution when higher resolution is not available
+- proper progress bar 
